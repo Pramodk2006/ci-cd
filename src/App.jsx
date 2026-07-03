@@ -175,7 +175,7 @@ function App() {
             </svg>
           </div>
         </div>
-        <h1>Interactive CI/CD Pipeline Tutorial</h1>
+        <h1>Interactive CI/CD Pipeline Tutorial By O.K.P</h1>
         <p className="subtitle">
           Learn how GitHub Actions automates testing, building, and deploying React apps to GitHub Pages.
         </p>
