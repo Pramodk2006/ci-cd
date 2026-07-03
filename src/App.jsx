@@ -94,7 +94,7 @@ function App() {
     
     // Step 1: Git Push
     setSimulationStep(0);
-    addLog('🚀 Running command: git push origin main', 'command');
+    addLog('🚀 dum dum dum Running command: git push origin main', 'command');
     await delay(1500);
     addLog('✓ Pushed commits to https://github.com/ponaalagar/ci-cd.git', 'success');
     addLog('🔔 GitHub Webhook received. Triggering workflow "Deploy React App to GitHub Pages"...', 'info');
